@@ -11,7 +11,7 @@
     <PackageId>Kurmann.Media.Metadata</PackageId>
     
     <!-- Package-Tages zur Katalogisierung auf Nuget.org. Mehrere Tags mit Semikolen ";" trennen. -->
-    <PackageTags>Videoschnitt</PackageTags>
+    <PackageTags>Kurmann; Entities</PackageTags>
 
     <!-- Die URL des GIT-Repositories -->
     <RepositoryUrl>https://github.com/kurmann/Media.Metadata</RepositoryUrl>

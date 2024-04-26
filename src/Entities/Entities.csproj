@@ -13,10 +13,6 @@
     <!-- Package-Tages zur Katalogisierung auf Nuget.org. Mehrere Tags mit Semikolen ";" trennen. -->
     <PackageTags>Kurmann.Media</PackageTags>
 
-    <!-- Die URL des GIT-Repositories -->
-    <RepositoryUrl></RepositoryUrl>
-    <RepositoryType>git</RepositoryType>
-
     <!-- Die Kurzbeschreibung des NuGet-Packets. Die längere Beschreibung wird als README.md eingebunden -->
     <Description>Klassenbibliothek, die darauf ausgelegt ist, medienbezogene Metadaten-Operationen zu unterstützen.</Description>
 

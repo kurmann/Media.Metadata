@@ -1,5 +1,13 @@
 # Metadata
 
+## Archivierung
+
+### Dieses Repository wurde in das Monorepo "kurmann/videoschnitt" migriert
+
+**Hinweis:** Dieses Repository wird nicht mehr aktiv weiterentwickelt und ist archiviert. Die Entwicklung wird nun im Monorepo [kurmann/videoschnitt](https://github.com/kurmann/videoschnitt) fortgeführt.
+
+---
+
 Namespace: **Kurmann.Media**
 
 Das Git-Repository `Kurmann.Media.Metadata` ist eine Sammlung von .NET-Klassenbibliotheken, die darauf ausgelegt ist, medienbezogene Metadaten-Operationen zu unterstützen. Es dient als Framework zur Organisation und Verwaltung von Medieninhalten, wobei es spezielle Klassen für die Arbeit mit verschiedenen Medientypen und Genres bietet.
